@@ -1,4 +1,4 @@
-package com.chuck.norris.joke.model;
+package com.chuck.norris.model.joke;
 
 import java.util.List;
 
