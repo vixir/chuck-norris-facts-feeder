@@ -72,8 +72,6 @@
         </dependency>
     </dependencies>
 
-    <!--    docker publish profile to enable publish to docker registry
-    only when DOCKER_PUBLISH property is set. Only master build will publish to Docker Registry-->
     <profiles>
         <profile>
             <id>master</id>
