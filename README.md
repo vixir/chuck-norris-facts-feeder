@@ -1,5 +1,5 @@
 # chuck-norris-facts-feeder
-[![Build Status](https://api.travis-ci.org/vixir/chuck-norris-joke-feeder.svg?branch=master)](https://travis-ci.org/vixir/chuck-norris-facts-feeder)
+[![Build Status](https://travis-ci.org/vixir/chuck-norris-facts-feeder.svg?branch=master)](https://travis-ci.org/vixir/chuck-norris-facts-feeder)
 
 REST API to feed Chuck Norris Facts
 
