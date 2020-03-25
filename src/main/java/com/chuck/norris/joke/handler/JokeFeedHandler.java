@@ -39,7 +39,7 @@ public class JokeFeedHandler {
         ResponseEntity<String> responseEntity;
         try {
             RestTemplate restTemplate = new RestTemplate();
-            responseEntity = restTemplate.getForEntity("https://evilinsult.com/generate_insult.php?lang=en&type=text", String.class);
+            responseEntity = restTemplate.getForEntity("http://evilinsult.com/generate_insult.php?lang=en&type=text", String.class);
         } catch (RestClientException ex) {
             log.error("Exception while executing REST call to evil insult api", ex);
             throw ex;
