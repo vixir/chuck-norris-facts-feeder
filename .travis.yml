@@ -4,8 +4,8 @@ jdk:
 deploy:
   provider: heroku
   api-key:
-    secure: "csgoScgu/KNKH+bjbXZ8nK2Aw1srX/KlO3nfGhS8Cz3p7O6mU0DKp/8tO0KtfnpBRXqSfXnTKHxGEbD9i/1+pm7JwRS/MPWDvWzuW3PS7YYXUvm2Byr73MOBU9lRC3YXSf3vRoFWbUotZ6pv8bGeJeJE3NiMycLMwq+9Jl5/AvuNZ+cvhFIqrwJlNHiZ
-             oujnQv069Ta9HWIABF8VFmZasNiMEhYX43asp7SteeKXymsD185sL0TDWOpVPSU2MDG6Y+U/Xk2h4XZrPoKRw1UhWhBTmk6fWm2/yOVaiXmTLAwX3+VEUBWmR2DUXr6Vo+5A24q/A9DYC+w6BivFxtgp2jnjxCKU998PzQKiq48flqxPTejosRL3o0EMSyU1LLTClUY
-             Nrzsa0VrmAUyHnghZZMlEUy7SDBKvrteZ+vNL+++ptCmyg0jkSthyXczp/CF7UZFgzm63SmsPhzYNuIFe+3GFtWVUyzgaYGmF5HDBA6BF2yrCEva5+zw01N+l+/vl15YLdpvoIbvbDr/ACX48+yisAsjFbjVYcGDBt42lEsafQgOZXRhZLdWxzUUCnbqUQW12/D2lSJ
-             rLjpSEIX0r16rhg6fVW9wV5UNjwsHjZhaAR3PEeYH/+w+uoUFuZOhWba3R3PQMKtnsi2L5xz2oIhEyb2DROz6bTWnKIe9yIuU="
-  app: chuck-norris-facts-feeder
+    secure: "FHT6EywSXhJsqf7W6Y6iHPmKgBHaPTfhq3GPLU+vv3pitb8j66UTRmXwYDEnYiK2JY//GMADN5en89G7G5hZCmVykZ+LuekrNHPj/nStbPyeWREEXUydbsMU1ONzWWzqvN5iRGygm9ui6TDi8cxelK1UfBba7xxweZVCf3o/+kVgZiTM3+rgwJqbKYEc
+      V9BbkYWKooDvmXJ9WEic1s0SOLtfOzC2LaLqraPG0E2i1ZBmBxrVF7789W3ENsYMX0CFc2UlcKoVNRWsV1MIfAYcH/wrBMiC8+GafQdWNwGc/mmmuN4jHjzLYOQV/iiYrZ+j2Q/yMb22YsaGzSIH/0nBjInap40ONn3u9KipsH6/Qgj8CQ10mEYe1sMXVCWYMl6CbKg
+      ohAPM2EJzEzbJYCdImgCmr8RVnnahxz1fSVrcHcsdKGoiwDF6My+FfcmFOa5AByqq4aI3mSGI8pjSDCiKyFNHtz4P+sZl5lx+7/aM1dXpRiY75AeiHl4SIn4Vh9cUMBkK7oTIYcxk5NY6lEx8lti/qFgtcLfF5XTVeS/z3v36TMTAcV7yHGg2lhXm+yVLzvdsFQKvYe
+      a6cL+CNM1G0xYz6ikD7gEfTavaInADOVd+vySiCqaUe31Nk+03c+JOCbd+GfeoHgY2Ah3QR7SaeMaDR9Gxq1Ut1pEWyLw/62Y="
+    app: chuck-norris-facts-feeder
