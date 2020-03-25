@@ -1,0 +1,11 @@
+language: java
+jdk:
+  - openjdk8
+deploy:
+  provider: heroku
+  api-key:
+    secure: "csgoScgu/KNKH+bjbXZ8nK2Aw1srX/KlO3nfGhS8Cz3p7O6mU0DKp/8tO0KtfnpBRXqSfXnTKHxGEbD9i/1+pm7JwRS/MPWDvWzuW3PS7YYXUvm2Byr73MOBU9lRC3YXSf3vRoFWbUotZ6pv8bGeJeJE3NiMycLMwq+9Jl5/AvuNZ+cvhFIqrwJlNHiZ
+             oujnQv069Ta9HWIABF8VFmZasNiMEhYX43asp7SteeKXymsD185sL0TDWOpVPSU2MDG6Y+U/Xk2h4XZrPoKRw1UhWhBTmk6fWm2/yOVaiXmTLAwX3+VEUBWmR2DUXr6Vo+5A24q/A9DYC+w6BivFxtgp2jnjxCKU998PzQKiq48flqxPTejosRL3o0EMSyU1LLTClUY
+             Nrzsa0VrmAUyHnghZZMlEUy7SDBKvrteZ+vNL+++ptCmyg0jkSthyXczp/CF7UZFgzm63SmsPhzYNuIFe+3GFtWVUyzgaYGmF5HDBA6BF2yrCEva5+zw01N+l+/vl15YLdpvoIbvbDr/ACX48+yisAsjFbjVYcGDBt42lEsafQgOZXRhZLdWxzUUCnbqUQW12/D2lSJ
+             rLjpSEIX0r16rhg6fVW9wV5UNjwsHjZhaAR3PEeYH/+w+uoUFuZOhWba3R3PQMKtnsi2L5xz2oIhEyb2DROz6bTWnKIe9yIuU="
+  app: chuck-norris-facts-feeder
